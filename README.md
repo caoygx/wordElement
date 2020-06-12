@@ -27,4 +27,5 @@ Array
 ```
 
 # 浏览器运行效果
-![](https://github.com/caoygx/wordElement/blob/master/1.png)
+
+![页面](https://github.com/caoygx/wordElement/blob/master/1.jpg)
